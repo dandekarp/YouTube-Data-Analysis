@@ -24,3 +24,6 @@ The primary objective of this project is to securely manage, streamline, and con
 The Kaggle dataset used in this project comprises CSV files containing statistics on daily popular YouTube videos spanning several months. Each day, up to 200 trending videos are published across various locations. The dataset includes information such as video titles, channel titles, publication timestamps, tags, views, likes, dislikes, descriptions, and comment counts. Additionally, the dataset includes a category_id field specific to each region, detailed in the linked JSON file.
 
 For access to the dataset, visit: [YouTube Dataset on Kaggle](https://www.kaggle.com/datasets/datasnaek/youtube-new)
+
+## Architecture Diagram
+<img src="architecture.jpeg">
